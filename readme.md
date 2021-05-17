@@ -1,6 +1,6 @@
 # StackOverflow helper for question 67562131
 
-Answer can be found on [StackOverflow](https://stackoverflow.com/q/67562131/28004)
+Answer can be found on [StackOverflow](https://stackoverflow.com/a/67567418/28004)
 
 ***
 

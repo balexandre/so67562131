@@ -7,7 +7,7 @@ Answer can be found on [StackOverflow](https://stackoverflow.com/q/67562131/2800
 to run 
 
 - `npm i`
-- `node index.js` or npm run
+- `node index.js` or `npm start`
 
 output will be
 

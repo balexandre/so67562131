@@ -2,10 +2,7 @@
 const mongoose = require('mongoose');
 
 const UserSchema = mongoose.Schema({
-    role: [{
-        type: String,
-        required: true,
-    }],
+    role: [{ type: String }], // or role: mongoose.Schema.Types.Mixed
     guid: {
         type: String,
         required: true
